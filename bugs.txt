@@ -1,0 +1,14 @@
+Bugs (Unresolved):
+
+Version: riders-b10
+	1)	horizental scrollbar appears wheh contents resize in between:
+		
+		> 991px to 1015px
+		> 768px to 790px
+		
+		Known Issues:
+		
+		> contents has responsive width incorrectness.
+		> faulty margin-right values.
+		
+	

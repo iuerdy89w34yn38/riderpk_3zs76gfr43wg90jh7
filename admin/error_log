@@ -1,0 +1,36 @@
+[09-Jul-2018 20:19:56 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 20480 bytes) in /home/hamzaper/riderspk/admin/carpost.php on line 559
+[09-Jul-2018 21:37:15 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/hamzaper/riderspk/admin/carpost.php on line 573
+[09-Jul-2018 22:25:59 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/hamzaper/riderspk/admin/carpost.php on line 569
+[09-Jul-2018 22:29:17 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/hamzaper/riderspk/admin/carpost.php on line 569
+[09-Jul-2018 22:50:56 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/hamzaper/riderspk/admin/carpostdone.php on line 101
+[09-Jul-2018 22:54:59 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 20480 bytes) in /home/hamzaper/riderspk/admin/carpostdone.php on line 81
+[09-Jul-2018 22:57:43 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/hamzaper/riderspk/admin/carpostdone.php on line 87
+[09-Jul-2018 23:02:16 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 12288 bytes) in /home/hamzaper/riderspk/admin/bikepost.php on line 555
+[09-Jul-2018 23:05:10 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/hamzaper/riderspk/admin/bikepost.php on line 561
+[09-Jul-2018 23:07:27 Asia/Karachi] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/hamzaper/riderspk/admin/carpostdone.php on line 81
+[11-Jul-2018 18:05:08 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/hamzaper/riderspk/admin/carpostdone.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/hamzaper/riderspk/admin/carpostdone.php on line 242
+[11-Jul-2018 18:27:26 Asia/Karachi] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/hamzaper/riderspk/admin/bikepost.php on line 614
+[11-Jul-2018 18:27:26 Asia/Karachi] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpfQ8q0l' is not a valid JPEG file in /home/hamzaper/riderspk/admin/bikepost.php on line 614
+[11-Jul-2018 18:40:15 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/hamzaper/riderspk/admin/bikepost.php:712
+Stack trace:
+#0 {main}
+  thrown in /home/hamzaper/riderspk/admin/bikepost.php on line 712
+[12-Jul-2018 00:05:51 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/hamzaper/riderspk/admin/heavybikepost.php:760
+Stack trace:
+#0 {main}
+  thrown in /home/hamzaper/riderspk/admin/heavybikepost.php on line 760
+[12-Jul-2018 03:42:57 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/hamzaper/riderspk/admin/bikepost.php:712
+Stack trace:
+#0 {main}
+  thrown in /home/hamzaper/riderspk/admin/bikepost.php on line 712
+[14-Jul-2018 10:26:16 UTC] PHP Warning:  unlink(../images/hbikes/large/f7bbb0b72f01d36b6c0efb45faa3b96a2.jpg): No such file or directory in /home/hamzaper/riderspk/admin/edithbikepicdone.php on line 140
+[14-Jul-2018 10:26:16 UTC] PHP Warning:  unlink(../images/hbikes/thumb/e91dc40a40e8c7427865140e4f2f025e2thumb.jpg): No such file or directory in /home/hamzaper/riderspk/admin/edithbikepicdone.php on line 141
+[14-Jul-2018 10:26:16 UTC] PHP Warning:  unlink(../images/hbikes/large/28d6a89ed8b7d24e3d4a8c8c741621313.jpg): No such file or directory in /home/hamzaper/riderspk/admin/edithbikepicdone.php on line 213
+[14-Jul-2018 10:26:16 UTC] PHP Warning:  unlink(../images/hbikes/thumb/abbf489a8d54abddd935d87c1d07088e3thumb.jpg): No such file or directory in /home/hamzaper/riderspk/admin/edithbikepicdone.php on line 214
+[14-Jul-2018 10:35:10 UTC] PHP Warning:  unlink(../images/hbikes/large/3e7ad34fcaf30c0917f4366f8f9d68b92.jpg): No such file or directory in /home/hamzaper/riderspk/admin/removehbikeyes.php on line 47
+[14-Jul-2018 10:35:10 UTC] PHP Warning:  unlink(../images/hbikes/thumb/083209b5ea5616efaa289ef2fe7c25782thumb.jpg): No such file or directory in /home/hamzaper/riderspk/admin/removehbikeyes.php on line 48
+[14-Jul-2018 10:35:10 UTC] PHP Warning:  unlink(../images/hbikes/large/70f8ee4ac13d3d1b5534b619d32326cd3.jpg): No such file or directory in /home/hamzaper/riderspk/admin/removehbikeyes.php on line 49
+[14-Jul-2018 10:35:10 UTC] PHP Warning:  unlink(../images/hbikes/thumb/1ec32736939a174b540eaff294ccbd973thumb.jpg): No such file or directory in /home/hamzaper/riderspk/admin/removehbikeyes.php on line 50
